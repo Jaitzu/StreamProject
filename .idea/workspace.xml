@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/stream-app/src/Components/StreamPlayer/StreamPlayer.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/stream-app/src/Components/StreamPlayer/StreamPlayer.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/stream-app/src/Components/football.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stream-app" beforeDir="false" afterPath="$PROJECT_DIR$/stream-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stream-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/stream-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stream-app/src/App.css" beforeDir="false" />
@@ -51,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/stream-app/src/Components/Container/Container.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -180,10 +179,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14038000" />
+    <option name="totallyTimeSpent" value="16415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="219" y="45" width="1200" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23817712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -247,7 +247,7 @@
     <entry file="file://$PROJECT_DIR$/stream-app/src/Components/Container/Container.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
